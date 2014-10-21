@@ -1,4 +1,4 @@
-# include < stdio .h >
+# include <stdio.h>
 int main () {
 int op ;
 float x;
@@ -6,7 +6,7 @@ printf (" converter ");
 printf ("(1) Unidades metricas ");
 printf ("(2) Unidades volumetricas ");
 scanf ("%d" ,& op );
-3switch ( op ){
+switch ( op ){
 case 1:
 printf ("(1) m->km") ;
 printf ("(2) km - >m") ;
